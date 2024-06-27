@@ -519,7 +519,7 @@ footer {
 
 
     .unshow {
-        margin-left: 24px;
+        margin-left: 0px;
     }
 }
 
@@ -569,6 +569,9 @@ footer {
 
     .mb25 {
         margin-bottom: 25px;
+    }
+    .box1{
+        margin-left: 12px;
     }
 }
 
@@ -629,6 +632,12 @@ footer {
     .mb25 {
         margin-bottom: 25px;
     }
+        .unshow {
+            margin-left: 0px;
+        }
+        .show{
+            margin-left: 0;
+        }
 
 }
 
@@ -670,9 +679,7 @@ footer {
 
     .post {}
 
-    .show {
-        margin-left: 24px;
-    }
+    
 
     .mb25 {
         margin-bottom: 25px;
