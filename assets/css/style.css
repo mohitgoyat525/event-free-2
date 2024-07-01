@@ -276,6 +276,7 @@ header {
     border: none;
     width: 100%;
     align-items: start;
+    outline: none;
 }
 
 .post {
