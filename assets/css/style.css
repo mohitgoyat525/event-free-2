@@ -354,6 +354,9 @@ header {
     cursor: pointer;
     width: fit-content;
 }
+.col-3-text:hover{
+    text-decoration: underline;
+}
 
 .col-3-head {
     font-family: "Poppins", sans-serif;
